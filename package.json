@@ -1,0 +1,27 @@
+{
+  "name": "firstgamebabylonjs",
+  "version": "1.0.0",
+  "description": "my first game with babylonJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plooliveira/FirstGameBabylonJs.git"
+  },
+  "author": "pvoliiveira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/plooliveira/FirstGameBabylonJs/issues"
+  },
+  "homepage": "https://github.com/plooliveira/FirstGameBabylonJs#readme",
+  "dependencies": {
+    "webpack": "^4.39.2",
+    "webpack-cli": "^3.3.6",
+    "webpack-dev-server": "^3.8.0"
+  },
+  "devDependencies": {
+    "@babylonjs/core": "^4.0.3"
+  }
+}
